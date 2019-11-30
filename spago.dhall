@@ -3,9 +3,9 @@ Welcome to a Spago project!
 You can edit this file as you like.
 -}
 { name =
-    "my-project"
+    "template-purescript-pages"
 , dependencies =
-    [ "effect", "console", "psci-support" ]
+    [ "console", "effect", "halogen", "psci-support" ]
 , packages =
     ./packages.dhall
 , sources =
