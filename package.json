@@ -1,0 +1,15 @@
+{
+  "name": "template-rust-pages",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "build": "rm -r dist && spago build && parcel build src/index.html",
+    "dev": "rm -r dist && concurrently \"spago build --watch\" \"parcel src/index.html\""
+  },
+  "dependencies": {
+    "concurrently": "^5.0.0",
+    "parcel-bundler": "^1.12.4",
+    "purescript": "^0.13.5",
+    "spago": "^0.12.1"
+  }
+}
