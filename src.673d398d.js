@@ -547,4 +547,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{"../Button/index.js":"zDga","../Control.Bind/index.js":"XhyZ","../Data.Unit/index.js":"WPvI","../Effect.Aff/index.js":"bSu2","../Halogen.Aff.Util/index.js":"bm4e","../Halogen.VDom.Driver/index.js":"BrA7"}],"Focm":[function(require,module,exports) {
 "use strict";var u=e(require("../output/Main"));function e(u){return u&&u.__esModule?u:{default:u}}u.default.main();
 },{"../output/Main":"sKIR"}]},{},["Focm"], null)
-//# sourceMappingURL=/src.673d398d.js.map
+//# sourceMappingURL=src.673d398d.js.map
